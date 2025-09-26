@@ -30,3 +30,6 @@ Illumination Consistency Loss
 
 Perceptual Loss (based on VGG features) 
 
+
+U can get the 200epoch generator model path from the google drive: https://drive.google.com/file/d/13q_V6uf2UqrglhOjohvIjTeTEr1kLsm7/view?usp=sharing
+
